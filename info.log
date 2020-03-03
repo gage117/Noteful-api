@@ -6,3 +6,18 @@
 {"message":"insert into \"notes\" (\"title\") values ($1) returning * - null value in column \"content\" violates not-null constraint","level":"error"}
 {"message":"insert into \"notes\" (\"title\") values ($1) returning * - null value in column \"content\" violates not-null constraint","level":"error"}
 {"message":"note with id 19 has been created.","level":"info"}
+{"message":"note with id 1 deleted","level":"info"}
+{"message":"note with id 14 deleted","level":"info"}
+{"message":"note with id 13 deleted","level":"info"}
+{"message":"note with id 12 deleted","level":"info"}
+{"message":"Title, content, and folder_id are required","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folder_id\", \"title\") values ($1, DEFAULT, DEFAULT) returning * - null value in column \"title\" violates not-null constraint","level":"error"}
+{"message":"note with id 21 has been created.","level":"info"}
+{"message":"note with id 21 deleted","level":"info"}
+{"message":"note with id 19 deleted","level":"info"}
+{"message":"note with id 22 has been created.","level":"info"}
+{"message":"note with id 23 has been created.","level":"info"}
+{"message":"note with id 23 deleted","level":"info"}
+{"message":"note with id 24 has been created.","level":"info"}
+{"message":"note with id 25 has been created.","level":"info"}
+{"message":"Folder with id 4 has been created.","level":"info"}
