@@ -1,0 +1,8 @@
+{"message":"notesService.getAllnotes is not a function","level":"error"}
+{"message":"notesService.getAllnotes is not a function","level":"error"}
+{"message":"insert into \"notes\" (\"title\") values ($1) returning * - null value in column \"content\" violates not-null constraint","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"insert into \"notes\" (\"title\") values (DEFAULT) returning * - null value in column \"title\" violates not-null constraint","level":"error"}
+{"message":"insert into \"notes\" (\"title\") values ($1) returning * - null value in column \"content\" violates not-null constraint","level":"error"}
+{"message":"insert into \"notes\" (\"title\") values ($1) returning * - null value in column \"content\" violates not-null constraint","level":"error"}
+{"message":"note with id 19 has been created.","level":"info"}
